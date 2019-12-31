@@ -1,0 +1,67 @@
+La Instalación del sistema de acuerdo al avance desarrollado
+son funcionales completamente los siguientes modulos:
+
+1.- Alumnos
+
+2.- Materias
+
+3.- Escuelas
+
+4.- Cuentas
+
+5.- Usuarios - Docentes, Cobradores y Administrativos
+
+
+Pasos de Instalación 
+
+1.- Instalar XAMPP  https://www.apachefriends.org/es/index.html
+ 
+Windows o Linux
+
+2.- Iniciar  en el localhost:
+                               Apache
+                               MySql
+
+3.- Guardar el codigo en la ruta de xampp
+
+ C:/xampp/htdocs
+
+4.- En el navegador explorer
+
+         localhost/IAF-Cambios
+
+==============================================================
+Importar la Base de datos
+==============================================================
+
+1.- Acceder a la siguiente ruta en el explorador 
+         
+            http://localhost/phpmyadmin/
+
+2.- Crear una nueva Base de Datos llamada "pos"
+
+
+3.-  Seleccionar Importar Base de datos y acceder a la siguiente ruta
+
+          IAF Software/Base de Datos
+
+4.- Seleccionar la Base de Datos : pos.sql 
+
+       Automaticamente cargaran las Tablas del Software y Datos
+
+====================================================================
+Acceder al login
+
+===================================================================  
+
+
+1.- En la URL del explorador escribir la siguiente Dirección
+
+                               localhost/IAF-Cambios
+
+2.- Acceder por medio de login 
+
+          Usuario:  admin
+          Pass   :  pass
+
+3.- Accedio al Sistema Satisfactoriamente
